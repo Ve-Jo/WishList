@@ -1,0 +1,43 @@
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\bin\Debug\ListviewExample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\bin\Debug\ListviewExample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\obj\Debug\ListviewExample.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\obj\Debug\ListviewExample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\obj\Debug\ListviewExample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\obj\Debug\ListviewExample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\ListviewExample\ListviewExample\obj\Debug\ListviewExample.Form1.resources
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.exe
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.pdb
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\bin\Debug\ListviewExample.exe
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\bin\Debug\ListviewExample.pdb
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.Form1.resources
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.Properties.Resources.resources
+C:\Учебный процесс\C#\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\Windows Form\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.pdb
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.exe
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.pdb
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\bin\Debug\ListviewExample.exe
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\bin\Debug\ListviewExample.pdb
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.csprojResolveAssemblyReference.cache
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.Form1.resources
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.Properties.Resources.resources
+\\fs\Преподаватели\Сербова Е В\Public\ЕКО-11-П11-4\WinForms\Примеры\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.csproj.GenerateResource.Cache
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.exe
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.pdb
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\bin\Debug\ListviewExample.exe
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\bin\Debug\ListviewExample.pdb
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.csprojResolveAssemblyReference.cache
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.Form1.resources
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.Properties.Resources.resources
+C:\Users\armin\Desktop\33. Элемент управления List View\ListView Пример №1\ListviewExample\obj\Debug\ListviewExample.csproj.GenerateResource.Cache
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\bin\Debug\ListviewExample.exe
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\bin\Debug\ListviewExample.pdb
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.csproj.AssemblyReference.cache
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.Form1.resources
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.Properties.Resources.resources
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.csproj.GenerateResource.cache
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.csproj.CoreCompileInputs.cache
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.exe
+C:\Users\PAPA\Desktop\11 - list view\пример 1\ListviewExample\obj\Debug\ListviewExample.pdb
